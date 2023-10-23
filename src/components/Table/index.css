@@ -1,0 +1,23 @@
+.table-view {
+  display: block;
+  text-align: center;
+  width: 500px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+th {
+  background-color: #8884d8;
+  color: white;
+  font-family: roboto;
+}
